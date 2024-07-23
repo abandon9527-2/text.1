@@ -46,7 +46,7 @@ int cmp_float(void* e1, void* e2)
 }
 int cmp_struct(const void* e1, const void* e2)
 {
-	return ((struct a1*)e1)->age - ((struct a1*)e2)->age;
+	return strcmp(((struct a1*)e1)->name ,((struct a1*)e2)->name);
 }
 
 int main()
@@ -77,11 +77,11 @@ int main()
 
 
 	//qsort实现struct结构体的排序
-	struct a1 n[3] = { {"liming",5},{"wangqiang",10},{"zhangfang",8}};
+	struct a1 n[3] = { {"liming",5},{"aangqiang",10},{"zhangfang",8}};
 	int sz = sizeof(n) / sizeof(n[0]);
 	qsort(n, sz, sizeof(n[0]), cmp_struct);
 	for (int i = 0; i < 3; i++)
 	{
-		printf("%d", ( & n[i])->age);
+		printf("%s", ( & n[i])->name);
 	}
 }
