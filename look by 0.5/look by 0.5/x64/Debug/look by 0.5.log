@@ -1,0 +1,5 @@
+﻿  look.c
+D:\code.1\text.1\look by 0.5\look by 0.5\look.c(56,29): warning C4090: “函数”: 不同的“const”限定符
+D:\code.1\text.1\look by 0.5\look by 0.5\look.c(56,29): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+D:\code.1\text.1\look by 0.5\look by 0.5\look.c(46,1): warning C4716: “half_search”: 必须返回一个值
+  look by 0.5.vcxproj -> D:\code.1\text.1\look by 0.5\x64\Debug\look by 0.5.exe
