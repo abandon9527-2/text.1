@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "text.c",
               "ToolTip": "D:\\code.1\\text.1\\Seqlist\\text.c",
               "RelativeToolTip": "text.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-07-29T07:03:40.186Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Seqlist.c",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAAB0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-07-29T07:03:10.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T07:03:10.829Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Seqlist.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-29T07:02:39.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T07:02:39.13Z"
             }
           ]
         }

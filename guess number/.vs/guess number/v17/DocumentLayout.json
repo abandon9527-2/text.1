@@ -37,9 +37,10 @@
               "Title": "stdio.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
               "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
-              "ViewState": "AQIAAHMCAAAAAAAAAAAEwIUCAAAAAAAA",
+              "ViewState": "AQIAANQBAAAAAAAAAAAEwIUCAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-21T07:06:35.515Z"
+              "WhenOpened": "2024-07-21T07:06:35.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -47,9 +48,9 @@
               "Title": "text.c",
               "DocumentMoniker": "D:\\code.1\\text.1\\guess number\\guess number\\text.c",
               "RelativeDocumentMoniker": "guess number\\text.c",
-              "ToolTip": "D:\\code.1\\text.1\\guess number\\guess number\\text.c*",
-              "RelativeToolTip": "guess number\\text.c*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ToolTip": "D:\\code.1\\text.1\\guess number\\guess number\\text.c",
+              "RelativeToolTip": "guess number\\text.c",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADQAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-07-21T07:02:38.122Z",
               "EditorCaption": ""
