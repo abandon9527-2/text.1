@@ -1,0 +1,3 @@
+﻿  SListNode.c
+D:\code.1\text.1\SListNode\SListNode.c(15,16): warning C4047: “=”:“SLDateType”与“void *”的间接级别不同
+  SListNode.vcxproj -> D:\code.1\text.1\SListNode\x64\Debug\SListNode.exe
