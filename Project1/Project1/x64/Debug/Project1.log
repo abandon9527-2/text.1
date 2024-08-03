@@ -1,0 +1,3 @@
+﻿  text.c
+D:\code.1\text.1\Project1\text.c(23,7): warning C4047: “初始化”:“int (*)[10][3]”与“int (**)[10]”的间接级别不同
+  Project1.vcxproj -> D:\code.1\text.1\Project1\x64\Debug\Project1.exe
