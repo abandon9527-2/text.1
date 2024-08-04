@@ -1,0 +1,7 @@
+﻿  qsort.c
+D:\code.1\text.1\qsort_user\qsort.c(55,9): warning C4013: “strcmp”未定义；假设外部返回 int
+D:\code.1\text.1\qsort_user\qsort.c(67,31): warning C4090: “函数”: 不同的“const”限定符
+D:\code.1\text.1\qsort_user\qsort.c(67,31): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+D:\code.1\text.1\qsort_user\qsort.c(74,31): warning C4090: “函数”: 不同的“const”限定符
+D:\code.1\text.1\qsort_user\qsort.c(74,31): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+  qsort_user.vcxproj -> D:\code.1\text.1\qsort_user\x64\Debug\qsort_user.exe
