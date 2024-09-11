@@ -1,0 +1,5 @@
+﻿  SList.c
+D:\code.1\text.1\SListNode_8_28\SList.c(142,6): warning C4013: “strcmp”未定义；假设外部返回 int
+  text.c
+  正在生成代码...
+  SListNode_8_28.vcxproj -> D:\code.1\text.1\SListNode_8_28\x64\Debug\SListNode_8_28.exe

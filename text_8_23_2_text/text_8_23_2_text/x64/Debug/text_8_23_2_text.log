@@ -1,0 +1,4 @@
+﻿  text.c
+D:\code.1\text.1\text_8_23_2_text\text.c(120,33): warning C4090: “函数”: 不同的“const”限定符
+D:\code.1\text.1\text_8_23_2_text\text.c(120,33): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+  text_8_23_2_text.vcxproj -> D:\code.1\text.1\text_8_23_2_text\x64\Debug\text_8_23_2_text.exe

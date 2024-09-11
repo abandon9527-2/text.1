@@ -1,0 +1,4 @@
+﻿  text.c
+D:\code.1\text.1\one dog\text.c(71,33): warning C4090: “函数”: 不同的“const”限定符
+D:\code.1\text.1\one dog\text.c(71,33): warning C4113: “int (__cdecl *)(void *,void *)”和“_CoreCrtNonSecureSearchSortCompareFunction”的参数列表不同
+  one dog.vcxproj -> D:\code.1\text.1\one dog\x64\Debug\one dog.exe

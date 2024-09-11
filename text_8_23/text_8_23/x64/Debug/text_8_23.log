@@ -1,0 +1,4 @@
+﻿  texct.c
+D:\code.1\text.1\text_8_23\texct.c(156,8): warning C4090: “初始化”: 不同的“const”限定符
+D:\code.1\text.1\text_8_23\texct.c(173,1): warning C4716: “my_strncat”: 必须返回一个值
+  text_8_23.vcxproj -> D:\code.1\text.1\text_8_23\x64\Debug\text_8_23.exe
