@@ -25,9 +25,8 @@ void swap(int* x, int* y)
 	*y = temp;
 }
 
-void UpDate(Heap* ps)
+void UpDate(Heap* ps,int child)
 {
-	int child = ps->size - 1;
 	while (child>0)
 	{
 		int father = (child-1) / 2;
@@ -49,17 +48,17 @@ void HeapPush(Heap* ps, HPDatetype x)
 		newcapacity(ps);
 	}
 	ps->arr[ps->size++] = x;
-	UpDate(ps);
+	UpDate(ps,ps->size-1);
 }
 
-void UNdate(Heap* ps)
+void UNdate(Heap* ps, int i, int n)
 {
-	int parent = 0;
+	int parent = i;
 	int child = parent * 2+1;
-	while (child<ps->size)
+	while (child<n)
 	{
 		
-		if (child+1<ps->size&&ps->arr[child] > ps->arr[child + 1])
+		if (child+1<n&&ps->arr[child] > ps->arr[child + 1])
 		{
 			child = child + 1;
 		}
@@ -81,7 +80,7 @@ void HeapPop(Heap* ps)
 {
 	swap(&ps->arr[0], &ps->arr[ps->size - 1]);
 	ps->size--;
-	UNdate(ps);
+	UNdate(ps, 0, ps->size);
 }
 
 HPDatetype HeapTop(Heap* ps)

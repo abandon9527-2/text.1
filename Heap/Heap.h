@@ -23,3 +23,9 @@ HPDatetype HeapTop(Heap* ps);
 bool HeapEmpty(Heap* ps);
 
 void HeapDestory(Heap* ps);
+
+void UNdate(Heap* ps,int i,int child);
+
+void UpDate(Heap* ps,int child);
+
+void swap(int* x, int* y);
